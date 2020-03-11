@@ -1,0 +1,29 @@
+.discount-tag{
+	background: #b5a4e3;
+	border-radius: 20px;
+	font-size: 15px;
+	font-weight: 600; 
+}
+.cart-data{
+	border: 1px solid #777;
+	padding: 15px;
+}
+.hosting-header{
+	font-size: 21px;
+}
+.price{
+	font-size: 18px;
+}
+.cart-icon i{
+	font-size: 26px;
+}
+@media only screen and (max-width: 600px){
+	.cart-data{
+		max-width: 350px;
+		margin: 0 auto;
+	}
+}
+/*.body-height{
+	height: 500px;
+	margin-top: 120px;
+}*/
