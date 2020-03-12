@@ -10,9 +10,12 @@
 	<script src="https://kit.fontawesome.com/01043d6221.js"
 	crossorigin="anonymous"></script>
 	<style>
-		.data{
-			background-color: light-blue;
+		.form{
+			max-width: 400px;
 		}
+		.bg-task{
+	       background: #00bcd485;
+        }
 	</style>
 </head>
 <body>
